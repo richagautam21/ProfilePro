@@ -2,7 +2,8 @@
 This is  a user-friendly interface with visually appealing elements. I have utilized the latest web development practices to create a modern and efficient application.The frontend is created  using a variety of technologies including HTML, CSS, JavaScript, React, Tailwind CSS, and Chakra UI. 
 
 ## Deployment Link
-Click on the Link to get preview: 
+Click on the Link to get preview: https://profile-pro-sigma.vercel.app/
+
 
 ## Features
 
@@ -54,7 +55,7 @@ List of users along with their details
 ###  Running the App
 
 - Clone the repository using below link in the vs code:
-
+https://github.com/richagautam21/ProfilePro.git
 
 - Go to the project directory using cd command and then run:
  ### `npm install`
@@ -63,7 +64,8 @@ List of users along with their details
 ### `npm start`
 
 
-The project will run on your vs code.
+Open your web browser to access the site, or it may automatically open.Explore the site
+
 
 
 
